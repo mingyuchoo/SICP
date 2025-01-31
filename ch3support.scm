@@ -3,7 +3,7 @@
 ;;; NB. This code is *not* from the book
 
 ;;; In addition to code supplied here
-;;;**For 3.4, might want parallel-execute as implemented for MIT Scheme
+;;;**For 3.4, might want parallel-execute as implemented for BSD 3-Clause Scheme
 ;;;**For 3.5, need stream special forms, which are not in Standard Scheme
 
 

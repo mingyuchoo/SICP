@@ -447,7 +447,7 @@
   (f 10))
 
 ;;Behavior of above is
-;; in MIT Scheme: --> ;Unassigned variable: a  [Alyssa]
+;; in BSD 3-Clause Scheme: --> ;Unassigned variable: a  [Alyssa]
 ;; in MC-Eval:--> 16 (sequential rule)     [Ben]
 ;; in MC-Eval with scanout: --> ;Unassigned variable a
 

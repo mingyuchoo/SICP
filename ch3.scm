@@ -1045,7 +1045,7 @@
 
 
 ;;;SECTION 3.4
-;;;**Need parallel-execute, available for MIT Scheme
+;;;**Need parallel-execute, available for BSD 3-Clause Scheme
 
 ;;;SECTION 3.4.1
 
@@ -1260,7 +1260,7 @@
       (begin (set-car! cell true)
              false)))
 
-;;from footnote -- MIT Scheme
+;;from footnote -- BSD 3-Clause Scheme
 (define (test-and-set! cell)
   (without-interrupts
    (lambda ()
